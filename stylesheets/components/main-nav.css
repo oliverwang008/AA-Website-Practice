@@ -1,0 +1,10 @@
+/* Your code here */
+.navigator__list {
+    font-size: 12px;
+    display: flex;
+    justify-content: center;
+}
+
+.navigator__list > li {
+    padding: 10px 10px;
+}
